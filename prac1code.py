@@ -24,7 +24,7 @@ GPIO.setup(5, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
 
 def main():
-	print(values)
+	pass
 	
 def button1(pin):
         global x
